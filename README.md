@@ -1,23 +1,14 @@
-<table>
-  <tr>
-    <td width="58%" valign="middle">
+# Olá, eu sou Gilberto Dalcin
 
-<h1>Olá, eu sou Gilberto Dalcin</h1>
+## Desenvolvedor Front-end | React | Next.js | TypeScript
 
-<h3>Desenvolvedor Front-end | React | Next.js | TypeScript</h3>
-
-<p>
 Profissional de tecnologia com experiência no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo, com foco em front-end moderno, integração de APIs, qualidade de código, performance, acessibilidade e arquitetura modular.
-</p>
 
-<p>
 Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no desenvolvimento.
+
+<p align="left">
+  <img src="gilberto-dalcin.png" alt="Gilberto Dalcin - Desenvolvedor Front-end" width="55%">
 </p>
-    <td width="42%" valign="middle">
-      <img src="gilberto-dalcin.png" alt="Gilberto Dalcin - Desenvolvedor Front-end" width="100%">
-    </td>
-  </tr>
-</table>
 
 ---
 
