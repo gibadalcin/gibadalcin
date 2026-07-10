@@ -1,80 +1,75 @@
-# 👋 Olá, eu sou o Gilberto Dalcin
+<table>
+  <tr>
+    <td width="58%" valign="middle">
 
-## Desenvolvedor Front-end | Desenvolvedor Web | Software Developer
+<h1>Olá, eu sou Gilberto Dalcin</h1>
 
+<h3>Desenvolvedor Front-end | React | Next.js | TypeScript</h3>
+
+<p>
 Profissional de tecnologia com experiência no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo, com foco em front-end moderno, integração de APIs, qualidade de código, performance, acessibilidade e arquitetura modular.
+</p>
 
-Atuei em projetos corporativos envolvendo aplicações web, interfaces, integração com serviços, sustentação de sistemas e melhoria contínua, especialmente em contextos de squads ágeis e ambientes com demandas reais de negócio.
-
-Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no processo de desenvolvimento.
-
----
-
-## 🚀 Principais tecnologias
-
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+<p>
+Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no desenvolvimento.
+</p>
+    <td width="42%" valign="middle">
+      <img src="gilberto-dalcin.png" alt="Gilberto Dalcin - Desenvolvedor Front-end" width="100%">
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🧩 Stack e ferramentas
+## 01 · Principais tecnologias
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  <img src="https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js&logoColor=5FA04E" alt="Node.js">
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+</p>
+
+---
+
+## 02 · Stack e ferramentas
 
 ### Front-end
 
-- JavaScript ES6+
-- TypeScript
-- React
-- Next.js
-- Vue.js
-- HTML5
-- CSS3
-- SCSS / CSS Modules
-- Responsividade
-- Acessibilidade
-- SEO técnico
-- Componentização
+`JavaScript ES6+` · `TypeScript` · `React` · `Next.js` · `Vue.js` · `HTML5` · `CSS3` · `SCSS` · `CSS Modules`
 
-### Back-end, dados e integrações
-
-- Node.js
-- APIs REST
-- PostgreSQL
-- Supabase
-- Drizzle ORM
-- Firebase
-- MongoDB
-- SQL / NoSQL
-- Autenticação
-- Integração com serviços externos
-
-### Qualidade, arquitetura e processo
-
-- Git & GitHub
-- Testes automatizados
-- Vitest
-- Testing Library
-- Arquitetura modular
-- ADRs
-- Documentação técnica
-- Scrum / Kanban
-- Jira
-- CI/CD
-
-### IA aplicada ao desenvolvimento
-
-- GitHub Copilot
-- GPT
-- Gemini
-- Apoio em arquitetura, revisão, documentação, testes e produtividade
+Atuação com componentização, responsividade, acessibilidade, SEO técnico e construção de interfaces web modernas.
 
 ---
 
-## 💼 Experiência
+### Back-end, dados e integrações
+
+`Node.js` · `APIs REST` · `PostgreSQL` · `Supabase` · `Drizzle ORM` · `Firebase` · `MongoDB` · `SQL / NoSQL`
+
+Experiência com consumo de APIs, autenticação, modelagem de dados, persistência e integração com serviços externos.
+
+---
+
+### Qualidade, arquitetura e processo
+
+`Git` · `GitHub` · `Vitest` · `Testing Library` · `ADRs` · `CI/CD` · `Scrum` · `Kanban` · `Jira`
+
+Foco em arquitetura modular, documentação técnica, testes automatizados, rastreabilidade e evolução incremental.
+
+---
+
+### IA aplicada ao desenvolvimento
+
+`GitHub Copilot` · `GPT` · `Gemini`
+
+Uso de IA como apoio em arquitetura, revisão, documentação, testes, produtividade e análise técnica, mantendo decisão, validação e direção técnica sob responsabilidade humana.
+
+---
+
+## 3 · Experiência
 
 ### Compass UOL | Desenvolvedor de Software
 
@@ -93,83 +88,80 @@ Principais responsabilidades:
 
 ---
 
-## 🌐 Projetos principais
+## 4 · Projetos principais
 
 ### Olinx Site
 
-Site institucional da Olinx Digital, desenvolvido como projeto autoral e vitrine técnica.
+Site institucional da **Olinx Digital**, desenvolvido como projeto autoral e vitrine técnica.
 
 O projeto reúne front-end moderno, arquitetura modular, internacionalização, SEO, acessibilidade, banco de dados, autenticação administrativa, área de recrutadores com acesso controlado, auditoria, notificações por e-mail, download protegido de currículo e rate limit em rotas sensíveis.
 
-Principais tecnologias e recursos:
+**Tecnologias e recursos**
 
-- Next.js
-- TypeScript
-- CSS Modules
-- next-intl
-- PostgreSQL / Supabase
-- Drizzle ORM
-- Auth.js
-- Resend
-- Vitest
-- Testing Library
-- SEO técnico
-- Acessibilidade
-- Arquitetura modular
-- Documentação com ADRs
+`Next.js` · `TypeScript` · `CSS Modules` · `next-intl` · `PostgreSQL` · `Supabase` · `Drizzle ORM` · `Auth.js` · `Resend` · `Vitest` · `Testing Library`
 
-Status atual:
+**Destaques técnicos**
 
-- Repositório principal privado.
-- Versão pública de apresentação em preparação.
+- Arquitetura modular por domínio.
+- Rotas localizadas em português e inglês.
+- SEO técnico, sitemap, robots e metadados por página.
+- Área de recrutadores com acesso por código temporário.
+- Fluxo progressivo com alinhamento da oportunidade, perfil resumido, perfil detalhado e download protegido.
+- Auditoria de eventos, notificações por e-mail e rate limit em rotas sensíveis.
+- Testes automatizados, typecheck e build de produção validados.
+
+**Status**
+
+Repositório principal privado.  
+<p>
+  <a href="https://github.com/gibadalcin/olinx-site-public" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20apresenta%C3%A7%C3%A3o%20p%C3%BAblica-OLINX%20SITE-D6AE3D?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Ver apresentação pública do Olinx Site">
+  </a>
+</p>
 
 ---
 
 ### OLINX NEXA PC
 
-Aplicação desktop em desenvolvimento, criada em Python com foco em manutenção, diagnóstico e automação para ambiente Windows.
+Aplicação desktop autoral em desenvolvimento, criada em **Python** para manutenção, diagnóstico e automação em ambiente Windows.
 
-O projeto explora organização modular, interface desktop moderna, execução segura de processos do sistema, automação de tarefas, separação de responsabilidades e evolução contínua de uma aplicação local voltada a suporte técnico.
+O projeto explora arquitetura modular, interface desktop moderna, execução controlada de processos do sistema, automação de tarefas, separação de responsabilidades, segurança operacional e evolução contínua de uma aplicação local voltada a suporte técnico.
 
-Principais tecnologias e recursos:
+`Python` · `PySide6` · `Arquitetura modular` · `Processos do sistema` · `Automação` · `Diagnóstico Windows` · `Interface desktop` · `Testes` · `Documentação técnica`
 
-- Python
-- PySide6
-- Arquitetura modular
-- Processos do sistema
-- Automação
-- Diagnóstico Windows
-- Interface desktop
-- Testes
-- Documentação técnica
-- Segurança na execução de comandos
+Entre os principais destaques estão a organização por módulos, execução segura de comandos, controle de processos, interface contextual, diagnóstico do ambiente Windows, automação de rotinas de manutenção e documentação técnica orientada à evolução do projeto.
 
-Status atual:
+**Status:** repositório principal privado; apresentação pública disponível.
 
-- Repositório principal privado.
-- Versão pública de apresentação em preparação.
+<p>
+  <a href="https://github.com/gibadalcin/olinx-nexa-pc-public" target="_blank">
+    <img src="https://img.shields.io/badge/Ver%20apresenta%C3%A7%C3%A3o%20p%C3%BAblica-OLINX%20NEXA%20PC-D6AE3D?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Ver apresentação pública do OLINX NEXA PC">
+  </a>
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+## 5 · Atualmente estudando
 
-- Engenharia de Software
-- Arquitetura de aplicações
-- Performance web
-- Escalabilidade
-- Qualidade de software
-- Segurança aplicada
-- IA aplicada ao desenvolvimento
-- Modelagem de dados
-- Boas práticas de documentação técnica
+`Engenharia de Software` · `Arquitetura de aplicações` · `Performance web` · `Escalabilidade` · `Qualidade de software` · `Segurança aplicada` · `IA aplicada ao desenvolvimento` · `Modelagem de dados` · `Documentação técnica`
 
 ---
 
-## 📫 Contato
+## 6 · Contato
 
-- LinkedIn: https://linkedin.com/in/gilbertodalcin
-- GitHub: https://github.com/gibadalcin
-- Portfólio: https://www.olinx.com.br
+<p>
+  <a href="https://linkedin.com/in/gilbertodalcin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Gilberto%20Dalcin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn - Gilberto Dalcin">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/gibadalcin" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-gibadalcin-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub - gibadalcin">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.olinx.com.br" target="_blank">
+    <img src="https://img.shields.io/badge/Portf%C3%B3lio-Olinx%20Site-D6AE3D?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" alt="Portfólio - Olinx Site">
+  </a>
+</p>
 
 ---
 
