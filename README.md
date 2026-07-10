@@ -2,194 +2,175 @@
 
 ## Desenvolvedor Front-end | Desenvolvedor Web | Software Developer
 
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+Profissional de tecnologia com experiência no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo, com foco em front-end moderno, integração de APIs, qualidade de código, performance, acessibilidade e arquitetura modular.
 
-Profissional de tecnologia com experiência no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo, atuando com foco em front-end moderno, integração de APIs e melhoria contínua de sistemas.
+Atuei em projetos corporativos envolvendo aplicações web, interfaces, integração com serviços, sustentação de sistemas e melhoria contínua, especialmente em contextos de squads ágeis e ambientes com demandas reais de negócio.
 
-Experiência em projetos corporativos para empresas como:
-- Livelo
-- Delly’s Food Service
-- Ancar Ivanhoe
-- Koerich
-
-Atualmente também desenvolvendo projetos pessoais voltados a:
-- Arquitetura de software
-- Aplicações web
-- Automação
-- Qualidade de código
-- IA aplicada ao desenvolvimento
+Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no processo de desenvolvimento.
 
 ---
 
-# 🚀 Tecnologias e Ferramentas
+## 🚀 Principais tecnologias
 
-## Front-end
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-![SCSS](https://img.shields.io/badge/SCSS-000?style=for-the-badge&logo=sass)
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)
-![Next JS](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
 ![Vue.js](https://img.shields.io/badge/Vue.js-000?style=for-the-badge&logo=vuedotjs)
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
-- JavaScript (ES6+)
+---
+
+## 🧩 Stack e ferramentas
+
+### Front-end
+
+- JavaScript ES6+
 - TypeScript
 - React
 - Next.js
 - Vue.js
 - HTML5
 - CSS3
-- SCSS
-- jQuery
+- SCSS / CSS Modules
+- Responsividade
+- Acessibilidade
+- SEO técnico
+- Componentização
 
-## Back-end e Dados
-
-![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-000?style=for-the-badge&logo=firebase)
-![MongoDB](https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb)
+### Back-end, dados e integrações
 
 - Node.js
 - APIs REST
+- PostgreSQL
+- Supabase
+- Drizzle ORM
 - Firebase
 - MongoDB
 - SQL / NoSQL
+- Autenticação
+- Integração com serviços externos
 
-## Infraestrutura e DevOps
-
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-000?style=for-the-badge&logo=googlecloud)
+### Qualidade, arquitetura e processo
 
 - Git & GitHub
-- Linux
-- DigitalOcean
-- Oracle Cloud
-- Google Cloud Storage
-
-## Ferramentas
-
-![Figma](https://img.shields.io/badge/Figma-000?style=for-the-badge&logo=figma)
-![Jira](https://img.shields.io/badge/Jira-000?style=for-the-badge&logo=jira)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=for-the-badge&logo=githubcopilot)
-![OpenAI](https://img.shields.io/badge/OpenAI-000?style=for-the-badge&logo=openai)
-
-- Figma
+- Testes automatizados
+- Vitest
+- Testing Library
+- Arquitetura modular
+- ADRs
+- Documentação técnica
+- Scrum / Kanban
 - Jira
+- CI/CD
+
+### IA aplicada ao desenvolvimento
+
 - GitHub Copilot
 - GPT
 - Gemini
+- Apoio em arquitetura, revisão, documentação, testes e produtividade
 
 ---
 
-# 💼 Experiência
+## 💼 Experiência
 
-## Compass UOL | Desenvolvedor de Software
+### Compass UOL | Desenvolvedor de Software
 
 Atuação no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo.
 
-### Principais responsabilidades:
-- Desenvolvimento e manutenção de aplicações web
-- Construção e evolução de interfaces
-- Integração com APIs REST
-- Correção de bugs e melhoria contínua
-- Otimização de performance
-- Atuação em squads ágeis
-- Apoio na análise técnica e evolução de soluções
+Principais responsabilidades:
+
+- Desenvolvimento e manutenção de aplicações web.
+- Construção e evolução de interfaces.
+- Integração com APIs REST.
+- Correção de bugs e melhoria contínua.
+- Otimização de performance.
+- Atuação em squads ágeis.
+- Apoio na análise técnica e evolução de soluções.
+- Colaboração com times de negócio, produto, desenvolvimento e infraestrutura.
 
 ---
 
-# 🌐 Projetos Front-end
+## 🌐 Projetos principais
 
-## Medicenter
+### Olinx Site
 
-Landing page desenvolvida com foco em HTML5, CSS3, organização visual e responsividade.
+Site institucional da Olinx Digital, desenvolvido como projeto autoral e vitrine técnica.
 
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+O projeto reúne front-end moderno, arquitetura modular, internacionalização, SEO, acessibilidade, banco de dados, autenticação administrativa, área de recrutadores com acesso controlado, auditoria, notificações por e-mail, download protegido de currículo e rate limit em rotas sensíveis.
 
-🔗 https://medicenter-three.vercel.app/
+Principais tecnologias e recursos:
 
----
+- Next.js
+- TypeScript
+- CSS Modules
+- next-intl
+- PostgreSQL / Supabase
+- Drizzle ORM
+- Auth.js
+- Resend
+- Vitest
+- Testing Library
+- SEO técnico
+- Acessibilidade
+- Arquitetura modular
+- Documentação com ADRs
 
-## About Photography
+Status atual:
 
-Landing page desenvolvida com foco em estruturação visual, experiência do usuário e responsividade.
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
-🔗 https://aboutphotography.vercel.app/
-
----
-
-## Starbucks UI
-
-Landing page inspirada em interfaces modernas, desenvolvida com foco em HTML, CSS e responsividade.
-
-![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
-
-🔗 https://starbucks-8tml.vercel.app/
+- Repositório principal privado.
+- Versão pública de apresentação em preparação.
 
 ---
 
-## Class L Sport
+### OLINX NEXA PC
 
-Sketch visual desenvolvido exclusivamente com CSS, com foco na construção de formas, composição visual e experimentação gráfica sem uso de imagens.
+Aplicação desktop em desenvolvimento, criada em Python com foco em manutenção, diagnóstico e automação para ambiente Windows.
 
-![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+O projeto explora organização modular, interface desktop moderna, execução segura de processos do sistema, automação de tarefas, separação de responsabilidades e evolução contínua de uma aplicação local voltada a suporte técnico.
 
-🔗 https://class-l-sport.vercel.app/
+Principais tecnologias e recursos:
 
----
+- Python
+- PySide6
+- Arquitetura modular
+- Processos do sistema
+- Automação
+- Diagnóstico Windows
+- Interface desktop
+- Testes
+- Documentação técnica
+- Segurança na execução de comandos
 
-# 🧠 Projeto em Desenvolvimento
+Status atual:
 
-## OLINX NEXA PC
-
-Aplicação desktop em desenvolvimento, desenvolvida em Python com foco em manutenção, diagnóstico e automação para ambiente Windows.
-
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
-
-O projeto utiliza arquitetura MVC, comunicação IPC, execução segura de processos do sistema e organização voltada à escalabilidade e manutenção contínua.
-
-### Principais focos do projeto:
-- Arquitetura de software
-- Organização e separação de responsabilidades
-- Automação de processos
-- Interface desktop moderna
-- Segurança e execução controlada
-- Evolução contínua da aplicação
-
-> Repositório privado no momento.
+- Repositório principal privado.
+- Versão pública de apresentação em preparação.
 
 ---
 
-# 📚 Atualmente estudando
+## 📚 Atualmente estudando
 
 - Engenharia de Software
 - Arquitetura de aplicações
 - Performance web
 - Escalabilidade
-- IA aplicada ao desenvolvimento
 - Qualidade de software
+- Segurança aplicada
+- IA aplicada ao desenvolvimento
+- Modelagem de dados
+- Boas práticas de documentação técnica
 
 ---
 
-# 📫 Contato
+## 📫 Contato
 
 - LinkedIn: https://linkedin.com/in/gilbertodalcin
 - GitHub: https://github.com/gibadalcin
-- E-mail: dalcin.finances@outlook.com
+- Portfólio: https://www.olinx.com.br
 
 ---
 
-⭐ Sempre buscando evolução contínua, boas práticas e construção de soluções com qualidade.
+⭐ Em constante evolução, buscando construir soluções úteis, bem organizadas e preparadas para crescer.
