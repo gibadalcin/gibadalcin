@@ -4,10 +4,6 @@ Profissional de tecnologia com experiência no desenvolvimento, sustentação e 
 
 Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no desenvolvimento.
 
-<p align="left">
-  <img src="gilberto-dalcin.png" alt="Gilberto Dalcin - Desenvolvedor Front-end" width="70%">
-</p>
-
 ---
 
 ## 01 · Principais tecnologias
