@@ -1,3 +1,7 @@
+
+
+Desenvolvedor Front-end | React | Next.js | TypeScript
+
 Profissional de tecnologia com experiência no desenvolvimento, sustentação e evolução de aplicações web em ambiente corporativo, com foco em front-end moderno, integração de APIs, qualidade de código, performance, acessibilidade e arquitetura modular.
 
 Atualmente desenvolvo projetos autorais voltados a presença digital, arquitetura de software, automação, qualidade, segurança e uso responsável de IA no desenvolvimento.
