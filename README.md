@@ -1,4 +1,3 @@
-# Olá, eu sou Gilberto Dalcin
 
 ## Desenvolvedor Front-end | React | Next.js | TypeScript
 
